@@ -1,2 +1,2 @@
 # EEG-Code
-Code for processing rat eeg data
+Code for processing rat EEG data.    
